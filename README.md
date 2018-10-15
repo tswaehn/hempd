@@ -13,7 +13,7 @@ Enjoy!
 
 ## Install
 
-* Install mpd (music player daemon) https://www.musicpd.org/
+* Install mpd (music player daemon) https://www.musicpd.org/download.html
 * unzip it into your http docs directory
 * if you like, chanche mpd/mpdconfig.php
 * you will find hempd under http://YOUR_DOMAIN/path/to/hempd/index.php
